@@ -35,5 +35,5 @@ To perform exploratory data analysis (EDA) on order, customer, and product-level
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/swiggy-instamart-analysis.git
+   git clone https://github.com/balpreet-kaur004/Swiggy-Instamart-Data-Analysis-Using-Python.git
    cd swiggy-instamart-analysis
